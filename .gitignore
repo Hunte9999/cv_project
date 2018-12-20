@@ -2,6 +2,6 @@ aligned/
 reps/
 FAST/
 .idea/
-DB
 data.jpg
 face.jpg
+.gitignore
